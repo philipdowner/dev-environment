@@ -1,7 +1,7 @@
 # Preferred Development Environment
 
 1. [Homebrew](https://brew.sh/) - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-1. [iTerm2](https://iterm2.com/) - `brew cask install iterm2`
+1. [iTerm2](https://iterm2.com/) - `brew install --cask iterm2`
    * Set color theme to 'Solarized Dark'
 1. Git - `brew install git`
 1. ZSH - `brew install zsh`
