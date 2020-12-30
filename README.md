@@ -17,7 +17,7 @@
       * `open ~/.zshrc` and set `plugins=(zsh-autosuggestions)`. `source ~/.zshrc`
    * [Syntax Highlighting](https://gist.github.com/kevin-smets/8568070#syntax-highlighting)
 1. [VSCode](https://code.visualstudio.com/Download) - `brew install --cask visual-studio-code`
-   * [Update integrated terminal font](https://gist.github.com/kevin-smets/8568070#visual-studio-code-config)
+   * [Update integrated terminal font](https://gist.github.com/kevin-smets/8568070#visual-studio-code-config) - Set `terminal.integrated.fontFamily` to `MesloLGS NF`
 1. [Docker Desktop](https://www.docker.com/products/docker-desktop) - `brew install --cask docker`
 1. [Table Plus](https://tableplus.com/) - `brew install --cask tableplus`
 1. [Firefox](https://www.mozilla.org/en-US/firefox/new/) - `brew install --cask firefox`
